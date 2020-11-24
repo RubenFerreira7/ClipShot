@@ -1,6 +1,6 @@
 # ClipShot App
 
-O presente projeto foi elaborado em âmbito académico da disciplina de Desenvolvimento Móvel  do Curso Técnico Superior de Design e Tecnologias para Aplicações Móveis, 1º ano, 2º semestre, na Escola Superior de Media Artes e Design, do Instituto Politécnico do Porto.<br>
+Esta aplicação foi desenvolvida como projeto final do 1º ano do Curso Técnico Superior de Design e Tecnologias para Aplicações Móveis, na Escola Superior de Media Artes e Design, do Instituto Politécnico do Porto.<br>
 Atualmente, existem inúmeras redes sociais que permitem a comunicação entre indivíduos por toda a parte do mundo, mas não existe um espaço aberto no que toca a uma aplicação que o faça especificamente para gaming.<br>
 Nesta aplicação é possível seguir outros utilizadores, colocar pequenos vídeos relacionados com jogos e encontrar jogadores de várias plataformas.<br>
 
