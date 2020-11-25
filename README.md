@@ -10,6 +10,7 @@ Video da apresentação da aplicação: https://streamable.com/osg2ic <br>
 This application was developed as the final project of the 1st year of the Course in Design and Technologies for Mobile Application.<br>
 Currently, there are countless social networks that allow communication between individuals all over the world, but none does it specifically for gaming.<br>
 In this application it's possible to follow other users, post short videos related to games and find players from various platforms.<br>
+Application presentation video: https://streamable.com/osg2ic <br>
 
 ![Screenshot_1593380602](https://user-images.githubusercontent.com/56965774/100131594-29f9ef00-2e7c-11eb-9236-26d248f284c8.png)
 ![Screenshot_1593385075](https://user-images.githubusercontent.com/56965774/100132039-c7552300-2e7c-11eb-8a55-745544c52668.png)
