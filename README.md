@@ -14,9 +14,8 @@ In this application it's possible to follow other users, post short videos relat
 Application developed in Java with integration with Google Firebase. <br />
 Application presentation video: https://streamable.com/osg2ic <br>
 
-![Screenshot_1593380602](https://user-images.githubusercontent.com/56965774/100131594-29f9ef00-2e7c-11eb-9236-26d248f284c8.png)
-![Screenshot_1593385075](https://user-images.githubusercontent.com/56965774/100132039-c7552300-2e7c-11eb-8a55-745544c52668.png)
-![Screenshot_1593381470](https://user-images.githubusercontent.com/56965774/100132202-fc617580-2e7c-11eb-866a-4d4f96e2b11d.png)
+
+![Screenshot_1606407568](https://user-images.githubusercontent.com/56965774/100374040-98b58480-3003-11eb-9023-2f9da3aecec8.png)
 
 
 
