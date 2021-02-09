@@ -15,9 +15,8 @@ Application developed in Java with integration with Google Firebase. <br />
 Application presentation video: https://streamable.com/osg2ic <br>
 
 
-![Screenshot_1606407568](https://user-images.githubusercontent.com/56965774/100374040-98b58480-3003-11eb-9023-2f9da3aecec8.png)
-![Screenshot_1606407547](https://user-images.githubusercontent.com/56965774/100374216-d3b7b800-3003-11eb-9838-fb0c20523882.png)
-![Screenshot_1593382064](https://user-images.githubusercontent.com/56965774/100374410-22fde880-3004-11eb-9245-ffc66857bf68.png)
-
+![clipshot2](https://user-images.githubusercontent.com/56965774/107393246-7dcaba80-6af2-11eb-92d8-b2c67c0d91da.png)
+![clipshot3](https://user-images.githubusercontent.com/56965774/107393248-7e635100-6af2-11eb-9acd-fa7133d68e8f.png)
+![clipshot1](https://user-images.githubusercontent.com/56965774/107393251-7e635100-6af2-11eb-8f5e-43377f49d120.png)
 
 
